@@ -114,9 +114,3 @@ Clustering was applied on:
 5. Inspect clustering results and model performance.
 
 ---
-
-## Submission
-
-All required code and answers are included in a Jupyter Notebook according to project guidelines.
-
----
